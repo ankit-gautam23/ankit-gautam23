@@ -2,9 +2,11 @@
 <H4>
 I am a software engineer holding rich 3.5 years of experience in Fintech and Air Travel Industry. During this scintillating time of my career I worked on real world problems to simplify the process of building scalable and secure backend for web apps. I molded services for managing the database, authentication, realtime data sync and storage objects while still giving them control over there data and infrastructure.
 <br/>
+------------------------------------------------------
 Google Developer Profile: https://g.dev/ankitp23
 <br/>
 Medium Profile: https://medium.com/@ankit.gautamp23
+------------------------------------------------------
 </H4>
 
 # 💻 Tech Stack:
