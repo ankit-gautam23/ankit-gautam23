@@ -1,6 +1,6 @@
 # 💫 About Me:
 <H4>
-I am a software engineer holding rich 3.5 years of experience in Fintech and Air Travel Industry. During this scintillating time of my career I worked on real world problems to simplify the process of building scalable and secure backend for web apps. I molded services for managing the database, authentication, realtime data sync and storage objects while still giving them control over there data and infrastructure. 
+I'm a seasoned software engineer with expertise in Fintech and Air Travel. Throughout my career, I've tackled real-world challenges, simplifying the creation of scalable and secure web app backends. My focus has been on crafting services for database management, authentication, real-time data sync, and storage, all while empowering users with control over their data and infrastructure.
 <br/>
 ****************************
 <br/>
